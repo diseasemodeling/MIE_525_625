@@ -43,7 +43,7 @@ The following grading scale will be used (* indicates variance between undergrad
 
 Any changes in the grade composition and scale will be announced in class and distributed via email and Canvas. No implemented changes will result in a lower final course grade for a student than based on this initial composition/scale.
 
-*Graduate students may not receive a grade of C-, D+, or D. As such, anything from 0-72% for graduate students will be considered a failing grade.
+### Graduate students may not receive a grade of C-, D+, or D. As such, anything from 0-72% for graduate students will be considered a failing grade.
 
 ## **Learning outcomes**
 1. Build a strong foundation of the fundamentals of Deep Learning
