@@ -44,6 +44,18 @@ The following grading scale will be used (* indicates variance between undergrad
 Any changes in the grade composition and scale will be announced in class and distributed via email and Canvas. No implemented changes will result in a lower final course grade for a student than based on this initial composition/scale.
 
 *Graduate students may not receive a grade of C-, D+, or D. As such, anything from 0-72% for graduate students will be considered a failing grade.
+
+## **Learning outcomes**
+1. Build a strong foundation of the fundamentals of Deep Learning
+2. Ability to not only apply AI/ML in Engineering applications but be critical thinkers: identify points for data bias, risk, ethics, and how to mitigate these issues; problem solve around the engineering problem: identify what is best method for your problem;
+3. Learn to skillfully weave in engineering domain knowledge into model-free learning, to leverage the best of both domains
+4. Develop skills to be part of the workforce transformation- what you learn today will likely be outdated by the time you graduate, learn to learn, learn to problem solve, learn to innovate.
+
+## My expectations
+* I view this class as a partnership between myself and each student as well as between each of you.
+* I view a classroom setting as a place to learn - in a supported environment without judgement - and grow as individuals to contribute positively to the community.
+* I look forward to working and learning together.
+
 -----------------------------------------------------------------------------------------------------------------
 **SYLLABUS POLICIES**
 Attendance: Mandatory. If you will miss a class, inform the professor in advance with a valid reason as early as possible.
