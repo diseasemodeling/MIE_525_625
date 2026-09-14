@@ -12,6 +12,10 @@ FILE --> HUbControlPanel --> STOP SERVER
 ### Accessing files
 * Uses typical route of download (from source say GITHUB repo to your local folder on your computer) and upload (from your computer folder to JupyterHub0
 * Clone GITHUB repo
+* wget to ACCESS ONE SINGLE FILE
+
+### ACCESS ONE SINGLE FILE from GITHUB repo: wget url_link
+  * example: "wget https://github.com/diseasemodeling/MIE_525_625/blob/main/Lectures/2d_Code_NN_PyTorch_Basic.ipynb"
 
 ### Clone GITHUB repo to your JupyterHub
 git clone 'url_link_to_github_repo'
