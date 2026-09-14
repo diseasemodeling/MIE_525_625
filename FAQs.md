@@ -9,6 +9,9 @@ Start server
 LOGOUT: 
 FILE --> HUbControlPanel --> STOP SERVER
 
+### Accessing files
+* Uses typical route of download (from source say GITHUB repo to your local folder on your computer) and upload (from your computer folder to JupyterHub0
+* Clone GITHUB repo
 
 ### Clone GITHUB repo to your JupyterHub
 git clone 'url_link_to_github_repo'
