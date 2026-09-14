@@ -6,7 +6,7 @@ Login using UMass credentials (may ask only the first time)
 Select container image based on assignment needs 
 Start server
 
-BE SURE TO LOGOUT (so it frees up compute space): 
+BE SURE TO STOP SERVER (so it frees up compute space): 
 FILE --> HUbControlPanel --> STOP SERVER
 
 ### Accessing files
