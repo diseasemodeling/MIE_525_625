@@ -45,12 +45,14 @@ ___
 
 ---
 
-# 3. PROGRAMMING EXERCISE FOR SUBMISSION - MIE 625 (recommended for 525)
+# 3. SUBMIT: PROGRAMMING EXERCISE  - MIE 625 (recommended for 525)
 
 * Modify 2a or 2c code to use two hidden layers. First derive the differential equations (keep Sigmoid activation), and then code it
 ---
 
-# 4. PROGRAMMING EXERCISE FOR SUBMISSION - 625 and 525
+# 4. SUBMIT: PROGRAMMING EXERCISE - MIE 625 and 525
   * Use 2d (or your own code) Fit a model for a slightly more complex function: $y=sin(x)$ or $y=x_1^2 +x_2^2$ ( generate synthetic data for model training).
   * Modify the code to Hyperparameter tune using RandomizedSearchCV (see Eden Vachtel's thesis code -in A1_Graded folder). It is a scikit-learn package https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.RandomizedSearchCV.html .  2d_code uses PyTorch for NN module, so !pip install to install necessary packages. You can use AI to give you an example, use that as a guide to code it into 2d_code.
+
+SUBMISSION GUIDELINES: Submit.ipynb files. Run the code before submitting so the outputs are visible. 
   
