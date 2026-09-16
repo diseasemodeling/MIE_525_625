@@ -28,6 +28,7 @@ ___
     * Same as 2b except uses Auto diff
 4. Review 2d_Code_NN_PyTorch_Basic.ipynb
     * Uses Pytorch library (in-built package)
+5. (OPTIONAL) Review 2suppl_MathFoundations (on differentiation methods)
 
 
 ---
