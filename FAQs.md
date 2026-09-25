@@ -27,3 +27,10 @@ cd MIE_525_625
 git sparse-checkout init --cone  
 git sparse-checkout set A1_Graded  
 git checkout main  
+
+### Terminal commands for checking storage usage 
+* Check overall usage: df -h ~   
+* Check each file/folder size: du -sh ~/* ~/.* 2>/dev/null | sort -h   
+* Check for specific folder, e.g., in folder "~/.cache/*" :  du -sh ~/.cache/* | sort -h    
+* Check deeper into each subfolder, e.g.,: ls -lh ~/.cache/huggingface/hub/    
+* To remove folder: rm -rf ~/.cache/huggingface/*  
